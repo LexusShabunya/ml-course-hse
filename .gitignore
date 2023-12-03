@@ -3,5 +3,6 @@
 **/*.zip
 **/__pycache__
 **/__MACOSX
-**/data*
+**/data**
 **/*.csv
+**/*.zip**
