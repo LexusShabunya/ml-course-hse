@@ -2,3 +2,6 @@
 .ipynb_checkpoints
 **/*.zip
 **/__pycache__
+**/__MACOSX
+**/data*
+**/*.csv
